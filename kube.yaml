@@ -4,7 +4,7 @@ kind: Service
 metadata:
   name: myapp
   labels:
-    helm.sh/chart: myapp-0.2.0
+    helm.sh/chart: myapp-0.2.
     app.kubernetes.io/name: myapp
     app.kubernetes.io/instance: myapp
     app.kubernetes.io/version: "1.16.0"
