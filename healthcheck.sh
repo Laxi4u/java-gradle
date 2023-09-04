@@ -6,5 +6,5 @@ if [ $? -eq 0 ]
 then
  echo "The Deployment is success...Application Health is Good"
 else
-  helm rollback myjavaap
+  helm rollback myjavaapp
 fi
