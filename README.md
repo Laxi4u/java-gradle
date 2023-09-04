@@ -1,6 +1,6 @@
 # CICD_Java_gradle_application
 
-This application is java spring boot web application  
+This application is java spring boot web applicatio  
 
 build tool is ** gradle **
 
