@@ -1,4 +1,4 @@
-name: Java CICD with Gradl
+name: Java CICD with Gradle
 
 on:
   push:
